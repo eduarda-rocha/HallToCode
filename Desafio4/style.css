@@ -1,0 +1,69 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 591px;
+    height: 161px;
+    border: 1px solid #DADDDF;
+    display: flex;
+}
+
+.box-icon{
+    width: fit-content;
+    padding: 17px 12px 0 17px;
+}
+
+.publication-box{
+    margin-right: 84px;
+}
+
+.user-info{
+    margin-top: 17px;
+    font-size: 15px;
+    color: #0F1419;
+}
+
+.user-publication{
+    color: #536471;
+    font-size: 15px;
+}
+
+.username{
+    margin-left: 6px;
+}
+
+.date{
+    margin-left: 17px;
+}
+
+.text-publication{
+    font-size: 15px;
+    color: #0F1419;
+}
+
+.text{
+    margin-top: 5px;
+    margin-bottom: 16px;
+}
+
+.interaction-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.interaction-icon{
+    display: flex;
+    align-items: center;
+
+}
+
+.icon-image{
+    width: 15px;
+    height: 13.489px;
+}
+
+.interaction-number{
+    color: #536471;
+    margin-left: 17px;
+    font-size: 13px;
+}
